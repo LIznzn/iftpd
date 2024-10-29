@@ -4,3 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+gtk = "0.18.1"
+libunftp = "0.20.1"
+unftp-auth-jsonfile = "0.3.4"
+unftp-sbe-fs = "0.2.5"
